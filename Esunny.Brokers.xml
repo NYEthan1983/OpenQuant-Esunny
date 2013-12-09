@@ -15,4 +15,20 @@
       </ServerItem>
     </Server>
   </BrokerItem>
+  
+  <BrokerItem>
+    <Label>南华期货</Label>
+    <Server>
+      <ServerItem>
+        <Address>124.160.44.167</Address>
+        <Port>9100</Port>
+        <Label>模拟行情(联通)</Label>
+      </ServerItem>
+      <ServerItem>
+        <Address>122.224.116.158</Address>
+        <Port>9100</Port>
+        <Label>模拟行情(电信)</Label>
+      </ServerItem>
+    </Server>
+  </BrokerItem>
 </ArrayOfBrokerItem>
